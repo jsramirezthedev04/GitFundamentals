@@ -13,5 +13,5 @@
 - [Git push](./Commands/push.md)
 - [Git pull](./Command/pull.md)
 - [Git Status](./Command/status)
-
+- [GIt Clone](./Commands/clone.md)
 
