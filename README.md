@@ -8,4 +8,5 @@
 - [git config](./Commands/Config.md)
 - [Git Init](./Commands/Init.md)
 - [Git add](./Commands/Add.md)
--[Git commit](./Commands/commit.md)
+- [Git commit](./Commands/commit.md)
+- [Git remote](./Commands/remote.md)
