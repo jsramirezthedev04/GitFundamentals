@@ -6,3 +6,4 @@
 ## Git commands
 
 - [git config](./Commands/Config.md)
+- [Git Init](./Commands/Init.md)
